@@ -1,0 +1,11 @@
+.main-area{
+    text-align: center;
+}
+
+#modify{
+    background: gray;
+    height: 250px;
+    width: 250px;
+    margin: auto;
+    border-radius: 0%;
+}
